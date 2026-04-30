@@ -1,0 +1,19 @@
+# WordPress ignores
+wp-config.php
+wp-content/uploads/
+wp-content/themes/
+wp-content/plugins/
+*~
+*.log
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Node/Composer
+node_modules/
+vendor/
+
+# Remove plugin cache if generated locally
+json/
