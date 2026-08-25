@@ -17,3 +17,9 @@ vendor/
 
 # Remove plugin cache if generated locally
 json/
+vendor/
+node_modules/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
